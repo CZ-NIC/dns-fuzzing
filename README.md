@@ -1,10 +1,10 @@
 # DNS fuzzing
 
-This is the repository we store a unique seeds for American Fuzzy Lop (http://lcamtuf.coredump.cx/afl/) fuzzing.
+This is the repository we store a unique seeds for [American Fuzzy Lop](http://lcamtuf.coredump.cx/afl/) fuzzing.
 
 ## Packets
 
-We have a fuzz test for (Knot DNS)[CZ-NIC/knot] packet parser and the packet/ directory contains some unique packets we have used to prime the AFL fuzzing.
+We have a fuzz test for [Knot DNS](https://github.com/CZ-NIC/knot/tree/master/tests-fuzz) packet parser and the packet/ directory contains some unique packets we have used to prime the AFL fuzzing.
 
 ## Contributions
 
